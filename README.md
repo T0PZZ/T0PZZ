@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Find%20me%20on%20&color=0077B5&logoColor=white&labelColor=292928&style=for-the-badge" height="50" alt="linkedin logo"  />
   </a>
 </div>
-
+code
 ###
 
 <br clear="both">
@@ -65,11 +65,7 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t0pzz/t0pzz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/t0pzz/t0pzz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/t0pzz/t0pzz/output/pacman-contribution-graph.svg">
-</picture>
+
 
 ###
 
