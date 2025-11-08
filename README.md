@@ -5,9 +5,9 @@
 <br clear="both">
 
 <div align="center">
-  <a href="mailto:konradkruk.work@proton.me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=292928&style=for-the-badge" height="50" alt="gmail logo"  />
-  </a>
+<a href="mailto:konradkruk.work@proton.me">
+  <img alt="gmail logo" src="https://img.shields.io/static/v1?message=Mail&amp;logo=gmail&amp;label=&amp;color=D14836&amp;logoColor=white&amp;labelColor=292928&amp;style=for-the-badge" style="height: 50px;">
+</a>
   <a href="https://www.linkedin.com/in/konrad-kruk-bb288935b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Find%20me%20on%20&color=0077B5&logoColor=white&labelColor=292928&style=for-the-badge" height="50" alt="linkedin logo"  />
   </a>
