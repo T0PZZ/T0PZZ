@@ -5,9 +5,9 @@
 <br clear="both">
 
 <div align="center">
-<a href="mailto:konradkruk.work@proton.me">
-  <img alt="Email" src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=292928&style=for-the-badge">
-</a>
+  <a href="mailto:konradkruk.work@proton.me" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=292928&style=for-the-badge" height="50" alt="gmail logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/konrad-kruk-bb288935b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Find%20me%20on%20&color=0077B5&logoColor=white&labelColor=292928&style=for-the-badge" height="50" alt="linkedin logo"  />
   </a>
@@ -78,8 +78,3 @@
 </div>
 
 ###
-
-<!---
-T0PZZ/T0PZZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
